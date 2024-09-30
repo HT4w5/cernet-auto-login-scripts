@@ -8,6 +8,8 @@ Automates web portal login. DOES NOT REPLACE PPPoE!
 
 Works in the you-know-which institution's dorms, via wired connection.
 
+Probably works for the you-know-which ISP's login, too. Just add appendix to ID in script.
+
 Tested on alpine 3.18 Proxmox LXC. Should work on any distro.
 
 ## Dependencies
